@@ -44,9 +44,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YazhiniGowrisankar&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YazhiniGowrisankar&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YazhiniGowrisankar&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/YazhiniGowrisankar?style=for-the-badge&color=yellow" alt="Stars" />
+</p>
+
 
 ---
 
